@@ -1,0 +1,3 @@
+äUSBDeview.exe
+USBDeview.dll
+wd7Gxhet
